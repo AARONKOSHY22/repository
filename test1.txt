@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 128E-80A8
+
+ Directory of C:\Users\aaron\OneDrive\Desktop\MyProject
+
+24-11-2023  22:11    <DIR>          .
+24-11-2023  22:08    <DIR>          ..
+24-11-2023  22:11                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  199,507,595,264 bytes free
